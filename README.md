@@ -10,7 +10,7 @@ You have two options to get the files and run the game:
    - Open a terminal or command prompt.
    - Run the following command:
    ```sh
-   git clone https://github.com/EiguliteDev/Yahtzee.git
+   git clone https://github.com/EimizuDev/Yahtzee.git
    ```
 
 2. **Download the ZIP**:
